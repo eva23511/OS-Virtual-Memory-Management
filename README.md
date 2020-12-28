@@ -4,7 +4,7 @@ Implemented and simulated the operation of an Operating System’s Virtual Memor
 SOME TIPS ON HOW TO RUN THIS
 ----------------------------
 
-# have to load gcc version (gcc-9.2)
+### have to load gcc version (gcc-9.2)
 
 1. To load gcc version, by executing the following in a terminal:
 
